@@ -1,1 +1,1 @@
-# olp-analytics-challenge
+# OPI-analytics-challenge
